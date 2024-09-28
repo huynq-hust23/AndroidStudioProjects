@@ -2,5 +2,5 @@
 This is the repository of IT4785 Course.
 This picture below is screenshot on my device RMX3371.
 
-<img src="Screenshot.jfif" alt="Mô tả hình ảnh" width="600" height="1066,67">
+<img src="Screenshot.jfif" alt="Mô tả hình ảnh" width="600" height="600">
 
